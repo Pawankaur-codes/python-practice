@@ -3,6 +3,7 @@ This repository contains my practice codes of Python.
 
 ## What this contains:
 - simple python codes.
+- simple python projects.
 - statistics concepts in codes.
 
 ## Goal:
